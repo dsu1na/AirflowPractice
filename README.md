@@ -1,2 +1,3 @@
 # AirflowPractice
-This repository is to set up Airflow using pip
+
+This repository contains code for creating an image for airflow 
